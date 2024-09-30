@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\GlimReport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98648969-EA75-46C8-BDBA-23FC97E30F9E}|GlimReport.vcxproj|C:\\Users\\admin\\source\\repos\\GlimReport\\GlimReportDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98648969-EA75-46C8-BDBA-23FC97E30F9E}|GlimReport.vcxproj|solutionrelative:GlimReportDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98648969-EA75-46C8-BDBA-23FC97E30F9E}|GlimReport.vcxproj|C:\\Users\\admin\\source\\repos\\GlimReport\\GlimReportDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98648969-EA75-46C8-BDBA-23FC97E30F9E}|GlimReport.vcxproj|solutionrelative:GlimReportDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98648969-EA75-46C8-BDBA-23FC97E30F9E}|GlimReport.vcxproj|C:\\Users\\admin\\source\\repos\\GlimReport\\GlimReport.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{98648969-EA75-46C8-BDBA-23FC97E30F9E}|GlimReport.vcxproj|solutionrelative:GlimReport.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlimReportDlg.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GlimReport\\GlimReportDlg.h",
+              "RelativeDocumentMoniker": "GlimReportDlg.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GlimReport\\GlimReportDlg.h",
+              "RelativeToolTip": "GlimReportDlg.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-28T04:00:05.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlimReportDlg.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GlimReport\\GlimReportDlg.cpp",
+              "RelativeDocumentMoniker": "GlimReportDlg.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GlimReport\\GlimReportDlg.cpp",
+              "RelativeToolTip": "GlimReportDlg.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T02:25:28.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlimReport.rc - IDD_GLIMREPORT_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GlimReport\\GlimReport.rc",
+              "RelativeDocumentMoniker": "GlimReport.rc",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GlimReport\\GlimReport.rc - IDD_GLIMREPORT_DIALOG - Dialog",
+              "RelativeToolTip": "GlimReport.rc - IDD_GLIMREPORT_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-28T09:16:40.933Z",
+              "EditorCaption": " - IDD_GLIMREPORT_DIALOG - Dialog"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
