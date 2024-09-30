@@ -1,0 +1,94 @@
+
+2-1. 양꼬치
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int solution(int n, int k) {
+    int answer = 0;
+    answer += n * 12000;
+    int s = n / 10;
+    k = k-s;
+    answer += k * 2000;
+    return answer;
+}
+
+
+2-2. 접두사인지 확인하기
+#include <string>
+#include <vector>
+#include <iostream>
+
+using namespace std;
+
+int solution(string my_string, string is_prefix) {
+    int answer = 0;
+    if ((my_string.substr(0, is_prefix.length()) == is_prefix))
+        answer=1;
+    return answer;
+}
+
+
+2-3. 순서 바꾸기
+#include <string>
+#include <vector>
+
+using namespace std;
+
+vector<int> solution(vector<int> num_list, int n) {
+    vector<int> answer(num_list.begin(), num_list.begin() + n);
+    answer.insert(answer.begin(), num_list.begin() + n, num_list.end());
+    return answer;
+}
+
+
+2-4. 더 크게 합치기
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int solution(int a, int b) {
+    int answer = max(stoi(to_string(a)+to_string(b)), stoi(to_string(b)+to_string(a)));
+    return answer;
+}
+
+
+2-5. 이차원 배열 대각선 순회하기
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int solution(vector<vector<int>> board, int k) {
+    int answer = 0;
+    for (int i = 0; i < board.size(); i++) {
+    for (int j = 0; j < board[i].size(); j++) {
+        if (i + j <= k)
+            answer += board[i][j];
+    }
+}
+    return answer;
+}
+
+
+2-6. 배열 조각하기
+#include <string>
+#include <vector>
+
+using namespace std;
+
+vector<int> solution(vector<int> arr, vector<int> query) {
+    vector<int> answer(arr);
+    for (int i = 0; i < query.size(); i++) {
+    if (i % 2 == 0)
+        answer.erase(answer.begin() + query[i] + 1, answer.end());
+    else
+        answer.erase(answer.begin(), answer.begin() + query[i]);
+}
+    return answer;
+}
+
+
+
